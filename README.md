@@ -1,4 +1,4 @@
-Site que simula o Pinterest, desenvolvido em Python usando o framework Flask. 
+Site que simula o Pinterest, desenvolvido em Python usando o framework Flask. Foi utilizado um banco de dados SQLAlchemy.
 
 - Sistema de login e criação de conta, com validações para e-mail e senha;
 - Perfil único para cada usuário, com funcionalidade de postar foto;
